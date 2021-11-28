@@ -1,2 +1,1 @@
-# bouncy-ball-c20
-ball bounces
+# C20-Student-boilerplate-code
